@@ -1,5 +1,6 @@
-import 'package:campo_minado/models/campo.dart';
 import 'package:flutter/material.dart';
+
+import '../models/campo.dart';
 
 class CampoWidget extends StatelessWidget {
   final Campo campo;
